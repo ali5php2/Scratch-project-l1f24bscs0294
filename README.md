@@ -5,7 +5,7 @@
 </center>
 <body>
 <center>
-<img src="https://i.ibb.co/GnnWM5p/Screenshot-2024-10-27-193626.png" width="800px" height="600px">
+<img src="https://i.ibb.co/GnnWM5p/Screenshot-2024-10-27-193626.png" width="1200px" height="600px">
 </center>
 </body>
 </html>
